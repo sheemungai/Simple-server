@@ -1,4 +1,4 @@
-# Project Name
+# Simple Server
 
 Simple Server - its basically a python-based web-server that processes, and delivers web content
 
