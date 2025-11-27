@@ -4,7 +4,10 @@ Simple Server - its basically a python-based web-server that processes, and deli
 
 ## Getting Started
 
+
+
 ### Prerequisites
+
 
 - List any requirements
 - Python and HTML.
